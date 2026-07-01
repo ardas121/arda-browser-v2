@@ -1,4 +1,4 @@
-# Arda Browser v2
+# Arda Browser
 
 Arda Browser is a lightweight and fast custom web browser developed by Arda.
 
